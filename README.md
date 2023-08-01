@@ -1,8 +1,8 @@
-# RollingBall 
+
 
 <p align="center">
  <br/>
-Project developed for my improvement in HTML | CSS | JS
+# RolingBall
 </p>
 
 <p align="center">
